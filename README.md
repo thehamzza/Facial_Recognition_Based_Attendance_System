@@ -7,4 +7,4 @@ detect them and to mark their Attendance in excel sheets.
 
 ![alt text](https://github.com/thehamzza/Facial_Recognition_Based_Attendance_System/blob/d7f8b6c81c52f5cb2b739343dfc24b06b00bdeb2/CV%20Project%20SS.PNG)
 
-![Video Demo](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6983362967169847296?compact=1)
+[![Video Demo](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6983362967169847296?compact=1)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6983362967169847296?compact=1)
